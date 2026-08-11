@@ -7,6 +7,7 @@ My c++ solutions of leetcode and gfg
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0075-sort-colors) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,8 @@ My c++ solutions of leetcode and gfg
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
