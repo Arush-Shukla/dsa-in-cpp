@@ -6,6 +6,7 @@ My c++ solutions of leetcode and gfg
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -30,4 +31,12 @@ My c++ solutions of leetcode and gfg
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
