@@ -11,6 +11,7 @@ My c++ solutions of leetcode and gfg
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,8 @@ My c++ solutions of leetcode and gfg
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
