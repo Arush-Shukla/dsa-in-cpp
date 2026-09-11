@@ -10,6 +10,7 @@ My c++ solutions of leetcode and gfg
 | [0075-sort-colors](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0724-find-pivot-index) |
 ## Two Pointers
@@ -34,6 +35,7 @@ My c++ solutions of leetcode and gfg
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,9 +47,14 @@ My c++ solutions of leetcode and gfg
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0724-find-pivot-index) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0344-reverse-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
