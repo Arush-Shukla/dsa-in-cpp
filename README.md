@@ -53,8 +53,21 @@ My c++ solutions of leetcode and gfg
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
