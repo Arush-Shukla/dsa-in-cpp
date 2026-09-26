@@ -13,6 +13,7 @@ My c++ solutions of leetcode and gfg
 | [0209-minimum-size-subarray-sum](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0724-find-pivot-index) |
+| [1929-concatenation-of-array](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +71,8 @@ My c++ solutions of leetcode and gfg
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
