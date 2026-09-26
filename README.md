@@ -25,6 +25,7 @@ My c++ solutions of leetcode and gfg
 | ------- |
 | [0075-sort-colors](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -55,6 +56,7 @@ My c++ solutions of leetcode and gfg
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
@@ -65,6 +67,7 @@ My c++ solutions of leetcode and gfg
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
