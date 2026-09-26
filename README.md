@@ -11,6 +11,7 @@ My c++ solutions of leetcode and gfg
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0724-find-pivot-index) |
 | [1929-concatenation-of-array](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/1929-concatenation-of-array) |
@@ -23,6 +24,7 @@ My c++ solutions of leetcode and gfg
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
@@ -62,6 +64,7 @@ My c++ solutions of leetcode and gfg
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
