@@ -10,6 +10,7 @@ My c++ solutions of leetcode and gfg
 | [0075-sort-colors](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0485-max-consecutive-ones) |
@@ -24,6 +25,7 @@ My c++ solutions of leetcode and gfg
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0242-valid-anagram) |
 ## Quicksort
@@ -44,6 +46,7 @@ My c++ solutions of leetcode and gfg
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +69,7 @@ My c++ solutions of leetcode and gfg
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
@@ -76,9 +80,14 @@ My c++ solutions of leetcode and gfg
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/1929-concatenation-of-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
