@@ -62,6 +62,7 @@ My c++ solutions of leetcode and gfg
 | [0242-valid-anagram](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +74,7 @@ My c++ solutions of leetcode and gfg
 | [0217-contains-duplicate](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
 | ------- |
@@ -82,6 +84,7 @@ My c++ solutions of leetcode and gfg
 | ------- |
 | [0169-majority-element](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -90,4 +93,8 @@ My c++ solutions of leetcode and gfg
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Arush-Shukla/dsa-in-cpp/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
